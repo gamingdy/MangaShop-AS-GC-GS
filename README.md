@@ -35,4 +35,3 @@ Pour des ventes importantes je propose les remises suivantes:
 | entre 300 et 500 | 5% |
 | entre 500 et 1000 | 7% |
 | plus de 1000 | 10% |
-
